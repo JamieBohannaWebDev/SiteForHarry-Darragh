@@ -73,6 +73,6 @@ $(document).ready(function () {
         autoplay: true,
         pauseOnHover: true,
         arrows: false,
-        autoplaySpeed: 5000
+        autoplaySpeed: 3000
   });
 });
